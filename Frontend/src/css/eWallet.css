@@ -1,0 +1,174 @@
+.main_div{
+	margin-bottom: 2rem;
+}
+.noW{
+	background: linear-gradient(rgba(98, 115, 230, 0.6),rgba(200, 125, 125, 0.6)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOvSperRYjHH9-EHlKZJBfwvXy4rJpyerzHQsnp8DuuycYU5_);
+		width: 60%;
+		height: 60%;
+		
+		color: #fff;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		font-size: 15px;
+		padding: 20px 20px 0;
+		top: 60%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		position: absolute;
+  
+}
+.para{
+	text-align: center;
+	letter-spacing: 0.3rem;
+	font-size: 1.4rem;
+}
+.head4{
+	text-align: center;
+	margin-top: 20%;
+	font-size: 1.4rem;
+}
+.btnCreate{
+	border-radius: 10%;
+	background-color: goldenrod;
+	color: whitesmoke;
+	width: 100px;
+	height: 50px;
+	margin: 10px;
+}
+.btnCreate:hover{
+	background-color: rgb(215, 102, 102);
+}
+.wallet-container {
+	background: linear-gradient(rgba(223, 171, 171, 0.6),rgba(152, 38, 38, 0.6)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOvSperRYjHH9-EHlKZJBfwvXy4rJpyerzHQsnp8DuuycYU5_);
+		width: 60%;
+		height: 60%;
+		
+		color: #fff;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		font-size: 15px;
+		padding: 20px 20px 0;
+		top: 60%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		position: absolute;
+  
+  
+}
+.button-delete{
+	float: right;
+	border-radius: 10%;
+	width: 100px;
+	height: 70px;
+	margin-top: 20%;
+	background-color: crimson;
+	border: 1px solid rgb(203, 132, 132);
+	color: white;
+}
+.button-delete:hover {
+	background-color: rgb(164, 157, 210);
+	color: black;
+}
+
+.page-title {
+	text-align: left;
+	font-size: 1.2rem;
+}
+
+.fa-user {
+	float: right;
+}
+.inP{
+	width: 6rem;
+	margin: 8px;
+	
+}
+
+.fa-align-left {
+	margin-right: 15px;
+}
+
+.amount-box img {
+	width: 50px;
+}
+
+.amount {
+	font-size: 35px;
+}
+
+.amount-box p {
+	margin-top: 10px;
+	margin-bottom: -10px;
+}
+
+.btn-group {
+	margin: 20px 0;
+	margin-left: 20px;
+}
+
+.btn-group .btn {
+	margin: 8px;
+	
+	border-radius: 20px !important;
+	font-size: 12px;
+}
+
+.txn-history {
+	text-align: left;
+}
+
+.txn-list {
+	background-color: #fff;
+	padding: 12px 10px; 
+	color: #777;
+	font-size: 14px;
+	margin: 7px 0;
+}
+
+.debit-amount {
+	color: red;
+	float: right;
+}
+
+.credit-amount {
+	color: green;
+	float: right;
+
+}
+
+.footer-menu {
+	margin: 20px -20px 0;
+	bottom: 0;
+	border-top: 1px solid #ccc;
+	padding: 10px 10px 0;
+}
+
+.footer-menu p {
+	font-size: 12px;
+}
+.cen{
+	margin-left: 60px;
+	float: center;
+}
+
+@media screen and (max-width: 800px){
+	.main_div{
+		margin-bottom: 2rem;
+	}
+  .wallet-container {
+	  margin-top: 40px;
+    height: 75%;
+	width: auto;
+    bottom: 20px;
+    top: 65%;
+  }
+
+  .noW{
+	  width: 420px;
+	  margin: 0;
+	  padding: 10px;
+  }
+  .head4{
+	  margin-top: 40%;
+	  font-size: 1.2rem;
+  }
+  
+}
