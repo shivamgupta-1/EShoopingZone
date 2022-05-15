@@ -1,0 +1,29 @@
+2022-05-15 00:01:13,577 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:06:13,931 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:11:13,943 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:16:13,957 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:21:13,958 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:26:13,964 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:31:13,967 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:36:13,971 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:41:13,974 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:46:13,981 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:51:13,991 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 00:56:13,999 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:01:14,014 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:06:14,028 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:11:14,042 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:16:14,045 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:21:14,052 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:26:14,058 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:31:14,063 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:36:14,069 [INFO] com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-15 01:40:14,153 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(230)-127.0.0.1] Application shutdown requested.
+2022-05-15 01:40:14,346 [INFO] org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(230)-127.0.0.1] Unregistering application EWALLET-SERVICE with eureka with status DOWN
+2022-05-15 01:40:14,346 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(230)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1652559014346, current=DOWN, previous=UP]
+2022-05-15 01:40:14,372 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_EWALLET-SERVICE/localhost:ewallet-service:8085: registering service...
+2022-05-15 01:40:16,166 [INFO] com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_EWALLET-SERVICE/localhost:ewallet-service:8085 - registration status: 204
+2022-05-15 01:40:20,294 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(230)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-05-15 01:40:23,455 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(230)-127.0.0.1] Unregistering ...
+2022-05-15 01:40:23,655 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(230)-127.0.0.1] DiscoveryClient_EWALLET-SERVICE/localhost:ewallet-service:8085 - deregister  status: 200
+2022-05-15 01:40:24,368 [INFO] com.netflix.discovery.DiscoveryClient [RMI TCP Connection(230)-127.0.0.1] Completed shut down of DiscoveryClient
